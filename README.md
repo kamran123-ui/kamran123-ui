@@ -68,15 +68,15 @@ A full stack web app to organize and manage research papers efficiently.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamran123-ui&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamran123-ui&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran123-ui&layout=compact&theme=tokyonight">
 </p>
 
 ---
@@ -92,7 +92,7 @@ A full stack web app to organize and manage research papers efficiently.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kamran123-ui/kamran123-ui/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

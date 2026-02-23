@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY5bXF6ZXZycG96eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Aesthetic 3D Coder" width="700" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY5bXF6ZXZycG96eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Aesthetic 3D Coder" width="600" />
 </p>
 
 
